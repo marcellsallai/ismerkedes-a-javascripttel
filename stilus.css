@@ -1,0 +1,38 @@
+html {
+ background-image: url(./images/howtoovercom.jpg);
+
+
+}
+
+ body{
+background-color:red;
+margin:auto;
+width:50%;
+padding-top:20px;
+border-radius: 20%;
+
+}
+
+.elso{
+    text-align:center;
+    padding-left:20px;
+    color:gold;
+}
+
+.masodik{
+    text-align:center;
+    color: lightgreen;
+}
+
+.szamitott{
+    text-align:center;
+    color:lightblue;
+}
+
+.jelek{
+    text-align:center;
+    background-color:lightblue;
+    height:50px;
+
+}
+
